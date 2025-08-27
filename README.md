@@ -1,2 +1,1 @@
-# SMARTWASTEMANAGEMENT
-AI-based waste classification project
+# SMART WASTE MANAGEMENT PROJECT 
